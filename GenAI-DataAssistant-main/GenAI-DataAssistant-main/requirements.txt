@@ -1,0 +1,6 @@
+boto3
+streamlit
+pydantic
+langchain_core
+langchain_aws
+langchain_community

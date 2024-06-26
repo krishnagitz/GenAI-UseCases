@@ -1,0 +1,6 @@
+﻿trial_id,trial_name,start_date,end_date,phase,location,participants,enrollment_status
+1,COVID-19 Vaccine Study,15-01-2023,30-06-2024,Phase 3,New York,500,Enrolling
+2,Diabetes Drug Trial,20-08-2022,10-12-2023,Phase 2,Los Angeles,300,Completed
+3,Heart Disease Prevention Study,10-03-2023,20-01-2025,Phase 4,Chicago,700,Recruiting
+4,Alzheimer's Disease Research,05-11-2022,15-09-2024,Phase 1,Boston,200,Enrolling
+5,Cancer Immunotherapy Trial,30-06-2023,25-11-2024,Phase 2,San Francisco,400,Enrolling
