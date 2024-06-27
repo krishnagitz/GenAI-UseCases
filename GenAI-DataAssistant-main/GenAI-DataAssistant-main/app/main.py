@@ -13,7 +13,7 @@ from s3_utils import create_presigned_url, parse_s3_uri
 
 setup_logging()
 
-st.set_page_config(page_title='3 DP Data Genie')
+st.set_page_config(page_title='DataAsssistant - A Paradigm shift to how you interact with your company restricted Data 😉')
 
 streaming_on = setup_sidebar()
 setup_session_state()
